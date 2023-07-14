@@ -8,15 +8,21 @@ It's nothing groundbreaking, but I think it adds a lot to the Tow Truck Job.
 If you have any questions, please join the linked Discord server.
 
 ## NOTE - Some of the things you see in the preview may be in Danish. If so, this has been changed in the script.
+## NOTE - If you want to add your own Impound or Depot Options, go into 'fxo-towrequest/client/menu.lua' there will be a guide there
+
 
 Our Tebex Store - https://fxo.tebex.io/
-Our Discord Server - https://discord.gg/zSgAbMdPr5
+Our Discord Server - https://discord.gg/rwnwevZGTw
 
 # Dependencies
 - QB-Core 
 - QB-Target
+- QB-Menu
 - QB-Towjob
+- QB-PoliceJob
 - Renewed QB-Phone 
+- RP Emotes 
+- PolyZone
 
 ## Installation
 
